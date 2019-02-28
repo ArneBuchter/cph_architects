@@ -5,7 +5,7 @@
     display: grid;
     grid-template-columns: 30% 30% 30%;
     grid-template-rows: 22% 22% 22% 22%; 
-    grid-gap: 3%;
+    grid-gap: 3.3%;
     max-width: 900px;
     margin: 2% auto 0 auto;
 }
